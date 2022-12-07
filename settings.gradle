@@ -1,3 +1,5 @@
 rootProject.name = 'otusKulabuhov'
 include 'HW01-gradle'
 include 'HW05-byteCodes'
+include 'HW06-solid'
+
